@@ -7,7 +7,7 @@
 ----
 ## APRENDIZADO
 ### No jogo foi possível aplicar conceitos sobre:
-- [Swing](#Swing)
+- [Java Swing](#JavaSwing)
 - [Padrão Observer](#Observer)
 - [Lambdas](#Lambdas)
 - [JButton](#JButton)
